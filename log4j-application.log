@@ -1,0 +1,55 @@
+2022-06-15 18:52:07,266  INFO [main] ebanking:15 - URL is oppened
+ 2022-06-15 18:52:07,492  INFO [main] ebanking:19 - Username entered
+ 2022-06-15 18:52:07,686  INFO [main] ebanking:21 - Password entered
+ 2022-06-15 18:52:10,471  INFO [main] ebanking:23 - logged in
+ 2022-06-15 18:52:10,485  INFO [main] ebanking:27 - Test001 passed
+ 2022-06-15 23:51:19,419  INFO [main] ebanking:15 - URL is oppened
+ 2022-06-15 23:51:20,249  INFO [main] ebanking:19 - Username entered
+ 2022-06-15 23:51:20,374  INFO [main] ebanking:21 - Password entered
+ 2022-06-15 23:51:25,120  INFO [main] ebanking:23 - logged in
+ 2022-06-15 23:51:25,153  INFO [main] ebanking:27 - Test001 passed
+ 2022-06-15 23:58:02,658  INFO [main] ebanking:15 - URL is oppened
+ 2022-06-15 23:58:02,911  INFO [main] ebanking:19 - Username entered
+ 2022-06-15 23:58:03,032  INFO [main] ebanking:21 - Password entered
+ 2022-06-15 23:59:59,017  INFO [main] ebanking:23 - logged in
+ 2022-06-16 00:00:57,274  INFO [main] ebanking:15 - URL is oppened
+ 2022-06-16 00:00:57,471  INFO [main] ebanking:19 - Username entered
+ 2022-06-16 00:00:57,551  INFO [main] ebanking:21 - Password entered
+ 2022-06-16 00:00:59,835  INFO [main] ebanking:23 - logged in
+ 2022-06-16 00:00:59,869  INFO [main] ebanking:27 - Test001 passed
+ 2022-06-16 01:04:55,057  INFO [main] ebanking:15 - URL is oppened
+ 2022-06-16 01:04:55,615  INFO [main] ebanking:19 - Username entered
+ 2022-06-16 01:04:55,812  INFO [main] ebanking:21 - Password entered
+ 2022-06-16 01:04:58,363  INFO [main] ebanking:23 - logged in
+ 2022-06-16 01:04:58,375  INFO [main] ebanking:27 - Test001 passed
+ 2022-06-16 01:16:43,173  INFO [main] ebanking:15 - URL is oppened
+ 2022-06-16 01:16:43,848  INFO [main] ebanking:19 - Username entered
+ 2022-06-16 01:16:44,123  INFO [main] ebanking:21 - Password entered
+ 2022-06-16 01:16:46,302  INFO [main] ebanking:23 - logged in
+ 2022-06-16 01:16:46,319  INFO [main] ebanking:27 - Test001 passed
+ 2022-06-16 01:37:14,534  INFO [main] ebanking:15 - URL is oppened
+ 2022-06-16 01:37:14,789  INFO [main] ebanking:19 - Username entered
+ 2022-06-16 01:37:15,306  INFO [main] ebanking:21 - Password entered
+ 2022-06-16 01:37:20,626  INFO [main] ebanking:23 - logged in
+ 2022-06-16 01:37:20,652  INFO [main] ebanking:27 - Test001 passed
+ 2022-06-16 03:07:12,288  INFO [main] ebanking:18 - URL is oppened
+ 2022-06-16 03:07:13,058  INFO [main] ebanking:22 - Username entered
+ 2022-06-16 03:07:13,210  INFO [main] ebanking:24 - Password entered
+ 2022-06-16 03:07:17,054  INFO [main] ebanking:26 - logged in
+ 2022-06-16 03:07:17,070  INFO [main] ebanking:30 - Test001 passed
+ 2022-06-16 03:24:09,121  INFO [main] ebanking:21 - User name provided from excel
+ 2022-06-16 03:24:09,304  INFO [main] ebanking:23 - Pasword provided from excel
+ 2022-06-16 03:24:16,116  INFO [main] ebanking:35 - Login Passed
+ 2022-06-16 03:24:27,562  INFO [main] ebanking:21 - User name provided from excel
+ 2022-06-16 03:24:27,703  INFO [main] ebanking:23 - Pasword provided from excel
+ 2022-06-16 03:24:34,219  INFO [main] ebanking:35 - Login Passed
+ 2022-06-16 03:24:40,766  INFO [main] ebanking:21 - User name provided from excel
+ 2022-06-16 03:24:41,245  INFO [main] ebanking:23 - Pasword provided from excel
+ 2022-06-16 03:24:47,568  INFO [main] ebanking:35 - Login Passed
+ 2022-06-16 03:24:54,474  INFO [main] ebanking:21 - User name provided from excel
+ 2022-06-16 03:24:54,628  INFO [main] ebanking:23 - Pasword provided from excel
+ 2022-06-16 03:24:59,487  INFO [main] ebanking:35 - Login Passed
+ 2022-06-16 03:25:06,298  INFO [main] ebanking:21 - User name provided from excel
+ 2022-06-16 03:25:06,417  INFO [main] ebanking:23 - Pasword provided from excel
+ 2022-06-16 03:25:11,190  INFO [main] ebanking:35 - Login Passed
+ 
